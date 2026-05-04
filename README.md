@@ -1,7 +1,10 @@
 # Hi there! I'm Siam.
 🎓 Computer Engineering @ UBC Okanagan — Co-op stream
+
 🔧 I build things: APIs, embedded systems, cloud-connected apps
+
 🌐 Passionate about networking & distributed systems
+
 📬 Open to co-op roles — let's build something real
 ---
 ## 🚀 Projects
