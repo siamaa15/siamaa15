@@ -6,6 +6,7 @@
 🌐 Passionate about networking & distributed systems
 
 📬 Open to co-op roles — let's build something real
+
 ---
 ## 🚀 Projects
 ### Platter — Food Delivery Web App
