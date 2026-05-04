@@ -21,7 +21,18 @@ This is a team-based project for a food delivery platform built using FastAPI.
 - Designed features using in-memory data structures (runtime persistence)
 - Identified database persistence as a key scalability improvement for future versions
 👉 **My Pull Requests:**  
-(Add your PR links here)
+- **Reorder Past Order System**
+  - Implemented reorder functionality for previous orders  
+  - Improved service consistency and request handling
+  - [SR 1](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/142) | [SR 2](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/144) | [SR 3](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/147)
+- **Notification System**
+  - Implemented notification service for order updates  
+  - Added status change triggers and improved test coverage  
+  - [SR 1](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/74) | [SR 2](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/81) | [SR 3](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/83)
+- **Order History**
+  - Built endpoints to retrieve past orders and detailed views  
+  - Enabled structured response handling for frontend integration  
+  - [SR 1](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/88) | [SR 2](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/92) | [SR 3](https://github.com/Txlon5/COSC310_TermProject_Group21/pull/98)
 ---
 ### Young-Hee Doll — Red Light, Green Light Game
 🔗 https://github.com/DoubleA-ron/RedLight_GreenLight
