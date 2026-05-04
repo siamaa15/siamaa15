@@ -58,12 +58,18 @@ A Python-based game inspired by the “Red Light, Green Light” challenge from 
 Python, OpenCV, YOLO (Ultralytics), Pygame, GPIOZero, Raspberry Pi
 ---
 ## 🛠 Tech Stack
-**Languages:** Python, Java, C++  
+**Languages:** Python, Java, C++
+
 **Backend:** FastAPI  
+
 **Computer Vision:** OpenCV 
-**Embedded Systems:** Raspberry Pi, GPIO, Tiva Microcontrollers  
+
+**Embedded Systems:** Raspberry Pi, GPIO, Tiva Microcontrollers
+
 **Testing:** Pytest  
+
 **Tools:** Git, GitHub, Docker (basic)
+
 ---
 ## 📌 What I Bring
 - Strong foundation in backend systems and API design  
