@@ -80,4 +80,5 @@ Python, OpenCV, YOLO (Ultralytics), Pygame, GPIOZero, Raspberry Pi
 ---
 ## 📫 Contact
 Email: [siamibne1512@outlook.com](mailto:siamibne1512@outlook.com)  
+
 Linkedln: [@siam-ibne-nasir](https://www.linkedin.com/in/siam-ibne-nasir)
