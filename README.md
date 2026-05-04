@@ -37,7 +37,9 @@ This is a team-based project for a food delivery platform built using FastAPI.
 ---
 ### Young-Hee Doll — Red Light, Green Light Game
 🔗 https://github.com/DoubleA-ron/RedLight_GreenLight
+
 A Python-based game inspired by the “Red Light, Green Light” challenge from the Korean Netflix TV series "Squid Game". This is a team-based project.
+
 **Key Contributions:**
 - Implemented timing logic for Red Light / Green Light state transitions
 - Integrated audio signals for gameplay feedback via external speaker
